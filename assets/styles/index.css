@@ -1,0 +1,39 @@
+/* html tag */
+
+body{
+    background-color: pink;
+    border: double royalblue;
+    margin: 35px;
+    
+}
+
+h1{
+    color:royalblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, h3{
+    color:royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* id --> # */
+
+#image1{
+    width: 200px;
+    height: 200px;
+}
+
+#main_section,#contact_section{
+    float:left;
+    border: 1px dotted royalblue;
+    padding: 35px;
+    margin: 35px;
+}
+
+/* class --> . */
+
+/* .infosection{
+    color:seagreen;
+} */
